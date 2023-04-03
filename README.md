@@ -58,6 +58,7 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 
 ## OUTPUT:
+![WhatsApp Image 2023-04-03 at 09 16 26](https://user-images.githubusercontent.com/121215854/229407062-967d04cd-557e-4723-9f4c-098583169c4b.jpg)
 
 ## RESULT:
 The program is executed succesfully
